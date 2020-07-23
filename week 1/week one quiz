@@ -1,0 +1,76 @@
+1.
+      Python is an example of an
+      A) Interpreted language
+      B) Declarative language
+      C) Operating system language
+      D) Data science language
+      E) Low level language
+ANSWER: (A)
+
+2.
+      Data Science is a
+      A) Branch of statistics
+      B)Branch of computer science
+      C)Branch of artificial intelligence
+      D)Interdisciplinary, made up of all of the above
+ANSEWR: (B)
+
+3.
+      Data visualization is not a part of data science.
+      A) True
+      B) False
+ANSWER: (B)
+
+4.
+      Which bracketing style does Python use for tuples?
+      A) { }
+      B) ( )
+      C) [ ]
+ANSWER: (B)
+
+5.
+      In Python, strings are considered Mutable, and can be changed.
+      A) False
+      B) True
+ANSWER: (A)
+
+6.
+      What is the result of the following code: ['a', 'b', 'c'] + [1, 2, 3]
+      A) ['a', 'b', 'c', 1, 2, 3]
+      B) TypeError: Cannot convert list(int) to list(str)
+      C) ['a1', 'b2', 'c3']
+      D) [['a', 'b', 'c'], [1, 2, 3]]
+ANSWER: (A)
+
+7.
+      String slicing is
+      A) A way to make string mutable in python
+      B) A way to reduce the size on disk of strings in python
+      C) A way to make a substring of a string in python
+ANSWER: (C)
+
+8.
+      When you create a lambda, what type is returned? E.g. type(lambda x: x+1) returns
+      A) <class 'function'>
+      B) <class 'type'>
+      C) <class 'int'>
+      D) <class 'lambda'>
+ANSWER: (A)
+
+9.
+      The epoch refers to
+      A) January 1, year 0
+      B) January 1, year 1970
+      C) January 1, year 1980
+      D) January 1, year 2000
+ANSWER: (B)
+
+10.
+      This code, [x**2 for x in range(10)] , is an example of a
+      A) List comprehension
+      B) Sequence comprehension
+      C) Tuple comprehension
+      D) List multiplication
+ANSWER: (A)
+
+
